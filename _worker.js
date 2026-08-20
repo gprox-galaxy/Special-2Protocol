@@ -13,7 +13,7 @@ var proxyIPList = [
 ];
 
 // --- GITHUB TIER LIST (Main Source) ---
-var githubProxyURL = "https://raw.githubusercontent.com/winnyeintun004-eng/galaxy-subdomain/main/PROXYIP.txt";
+var githubProxyURL = "https://raw.githubusercontent.com/gprox-galaxy/Cloudflare-Galaxytunnel/refs/heads/main/PROXYIP.txt";
 
 // --- DoH Providers (Failover) ---
 var dohURLs = [
