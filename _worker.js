@@ -10,7 +10,7 @@ var proxyIP = "cdn-b100.xn--b6gac.eu.org";      // Fallback ProxyIP
 var wsPath = "/your-secret-path";   // Fallback Secret Path (Default)
 
 // 🔗 သင့် GitHub ပေါ်က PROXYIP.txt ရဲ့ Raw Link ကို ဒီနေရာမှာ ထည့်ပါ
-var githubProxyURL = "https://raw.githubusercontent.com/proxzero/galaxy-subdomain/refs/heads/main/PROXYIP.txt";
+var githubProxyURL = "https://raw.githubusercontent.com/gprox-galaxy/Cloudflare-Galaxytunnel/refs/heads/main/PROXYIP.txt";
 
 // DoH Provider URL
 var dohURL = "https://cloudflare-dns.com/dns-query";
